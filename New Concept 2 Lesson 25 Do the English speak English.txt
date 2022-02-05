@@ -1,0 +1,50 @@
+
+1.参考译文 25 Do the English speak English?
+
+我终于到了伦敦。火车站很大，又黑又暗。我不知道去饭店的路该怎么走，于是向一个搬运工打听。我的英语讲得不但非常认真，而且咬字也非常清楚。然而搬运工却不明白我的话。我把问话重复了很多遍。他终于听懂了。他回答了，但他讲得既不慢也不清楚。“我是个外国人，”我说。于是他说得慢了，可我还是听不懂。我的老师从来不那样讲英语！我和搬运工相视一笑。接着，他说了点什么，这回我听懂了。“您会很快学会英语的！” 他说。我感到奇怪。在英国，人们各自说着一种不同的语言。英国人之间相互听得懂，可我却不懂他们的话！他们说的是英语吗？
+
+2.听写
+
+I arrived England at last. The railway station is very big, black and dark. I don't know the way to my hotel, so I ask for a porter. I not only spoke English very carefully, but spoke English very clearly. The porter, however, could not understand me. I repeated myself several times. At last he understood. He answered me, but he spoke neither slowly or clearly. "I am a foreigner" I said. Then he spoke slowly, but I still couldn't understand him, my teacher never spoke English like that. The porter and me looked at each other and smiled. Then he said something and I understood. "You will soon learn English" he said. I wonder, in England, every person speaks a different language. The English could understand each others, but I couldn't understand them. Do they speak English?
+
+3.中译英
+
+我终于下载了安卓项目。编辑器很精致，又黑又暗。我不知道运行项目的流程该怎么走，于是像一个安卓同事打听。我的问题讲得不但非常认真，而且也非常清楚。然后安卓同事确不明白我的话。我把问题重复了很多遍，他终于听懂了。他回答了，但他讲得既不慢也不清楚。“我是个 iOS 开发” 我说。于是他说的慢了，可是我还是听不懂。我的iOS同事从来不这样讲编程语言。我和安卓同事相视一笑。接着他说了点什么，这回我听懂了。“您很快就会学会安卓的” 他说。我感到奇怪。在安卓，人们各自用着一种不同的编程语言。安卓开发互相听得懂，可我却不懂他们的编程模式！他们用的是MVC吗？
+
+I downloaded android project at last. The source code editor was beautiful, black and dark. I don't know the process of running the whole project, so I asked for an android colleague. I not only spoke my question very carefully, but spoke very clearly. Then the android colleague couldn't understood me. I repeated myself several times and at last he understood. He answered me, but he spoke neither slowly or clearly. "I am a iOS developer" I said. Then he spoke slowly, but I still could not understood him. My iOS colleague never spoke program language like that. The android colleague and me looked at each others and smiled. Then he said something and I understood. "You will soon learn Android" he said. In Android, each person uses a different design pattern. Android developer could understand each other, but I could not understand them. Do they use MVC?
+
+4.语法问题
+
+不但。。还。。 not only .. but ..
+
+不但不。。 还不。。 neither .. nor ..
+U90
+
+5.拼写错误
+
+终于 at last, finally
+
+火车 railway 
+
+搬运工 porter
+
+认真的 carefully
+
+相视一笑 look at each other and smile
+
+感到奇怪 wonder
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
